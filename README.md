@@ -21,5 +21,8 @@ This portfolio also links to my various platforms where some of my assignments a
 13. Git  
 
 
-## Here are some of the links that share my work directly:
+## 
+https://www.linkedin.com/in/glipps/
+https://github.com/glipps
+
 
