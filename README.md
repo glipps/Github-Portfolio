@@ -1,4 +1,4 @@
-#Portfolio
+## Portfolio
 
 This is a personal profile that hosts different assignments I have accomplished while attendin the Case Western Coding Bootcamp.
 
