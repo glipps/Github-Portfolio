@@ -1,7 +1,5 @@
 # Bootstrap-Portfolio
 
-### Assignment One Instructions (Bootstrap)
-
 This is a personal profile that hosts different assignments I have accomplished while attendin the Case Western Coding Bootcamp.
 
 This portfolio also links to my various platforms where some of my assignments and projects can be view and actually interacted with.
