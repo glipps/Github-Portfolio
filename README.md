@@ -22,7 +22,8 @@ This portfolio also links to my various platforms where some of my assignments a
 
 
 ## 
-https://www.linkedin.com/in/glipps/
-https://github.com/glipps
+* https://www.linkedin.com/in/glipps/
+
+* https://github.com/glipps
 
 
